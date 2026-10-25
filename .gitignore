@@ -1,0 +1,13 @@
+# Dependencies (restore with: composer install)
+/vendor/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local config / secrets
+.env
+config.php
